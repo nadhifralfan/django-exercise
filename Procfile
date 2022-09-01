@@ -1,1 +1,1 @@
-web: gunicorn ndip-django-practice.wsgi --log-file -
+web: gunicorn First_Project.wsgi --log-file -
